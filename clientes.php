@@ -35,7 +35,7 @@
                                 <div class="page-title-icon">
                                     <i class="fas fa-user-tie icon-gradient bg-deep-blue"></i>
                                 </div>
-                                <div>Admin Clientes
+                                <div>Admin Clientes para todos
                                     <div class="page-title-subheading">Creación, modificación o eliminación de Clientes.</div>
                                 </div>
                                 
