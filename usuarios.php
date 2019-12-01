@@ -35,7 +35,7 @@
                                 <div class="page-title-icon">
                                     <i class="fas fa-user icon-gradient bg-deep-blue"></i>
                                 </div>
-                                <div>Admin Usuarios
+                                <div>Admin Usuarios por siempre
                                     <div class="page-title-subheading">Creación, modificación o eliminación de Usuarios.
                                     </div>
                                 </div>
